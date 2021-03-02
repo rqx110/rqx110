@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'am rqx110 👋
 
 <!--
 **rqx110/rqx110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently Developing C#/python/javascript
+- 📫 How to reach me: rqx110#163.com
+  
+<a href="https://github.com/xianyun666">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rqx110&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/xianyun666">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqx110&layout=compact&langs_count=12&hide=html,css" />
+</a>
