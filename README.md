@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently Developing C#/python/javascript
 - 📫 How to reach me: rqx110#163.com
   
-<a href="https://github.com/xianyun666">
+<a href="https://github.com/rqx110">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rqx110&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/xianyun666">
+<a href="https://github.com/rqx110">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqx110&layout=compact&langs_count=12&hide=html,css" />
 </a>
